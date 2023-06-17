@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Janus, a passionate Python developer with a fo
 ### Contact Information
 You can reach out to me through the following channels:
 
-- Email: hughlawrence@duck.com
+- Website: https://uthvah.substack.com
 - GitHub: https://github.com/SineCrepusculum
 
 Feel free to explore my repositories, provide feedback on my projects, or connect with me for any coding-related discussions. As a beginner, I appreciate guidance and opportunities to collaborate with experienced developers.
