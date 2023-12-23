@@ -9,14 +9,3 @@ Welcome to my GitHub profile! I'm Janus, a passionate Python developer with a fo
 ### Recent Projects
 - Locksidian: I developed Locksidian, an Obsidian plugin that adds enhanced security features to the note-taking app. With this plugin, users can secure their sensitive notes through encryption and access control, safeguarding their valuable information.
 - Ipass: I created a basic Windows application that generates and stores passwords securely. This project allowed me to practice Python and learn about data encryption techniques. (Not currently on Github yet)
-
-
-### Contact Information
-You can reach out to me through the following channels:
-
-- Website: https://uthvah.substack.com
-- GitHub: https://github.com/uthvah
-
-Feel free to explore my repositories, provide feedback on my projects, or connect with me for any coding-related discussions. As a beginner, I appreciate guidance and opportunities to collaborate with experienced developers.
-
-Thank you for visiting my profile, and I look forward to connecting with you!
